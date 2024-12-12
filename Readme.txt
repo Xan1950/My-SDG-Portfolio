@@ -23,13 +23,13 @@ This is a personal portfolio website designed to showcase my **skills**, **proje
 
 ## 🚀 Installation
 
-1. Clone this repository:
+1. Clone this repository(optional):
    ```bash
    git clone https://github.com/Xan1950/My-SDG-Portfolio.git
    ```
 2. Open the project folder:
    ```bash
-   cd sdg-portfolio
+   My SDG Portfolio
    ```
 3. Open the `index.html` file in your browser:
    ```bash
@@ -40,13 +40,29 @@ This is a personal portfolio website designed to showcase my **skills**, **proje
 
 ## 📖 Usage
 
-1. Navigate through the interactive tabs to explore:
+1. To Navigate through the interactive tabs to explore, hover your cursor on left side of the website to reveal the navigation bar:
    - **Home**
    - **SDG**
    - **Skills**
    - **Projects**
    - **Contact**
-2. Use the **contact form** to reach out.
+2. In the Skills section, click the three Tab links to see my:
+   - **Skills**
+   - **Programming languages**
+   - **SDG**
+3. In the SDG Related projects click on learn more to Navigate through github SDG related projects.
+   - **Ocean Rescue Game (SDG 14)**
+   - **Report Reviving Oceans**
+   - **Life Below Water Website**
+4. SDG14:Life Below Water hover your cursor on them images to see their discriptions
+   - **Ocean Rescue Game (SDG 14)**
+   - **Report Reviving Oceans**
+   - **Life Below Water Website**
+To learn more about the sdg click the learn more botton it will redirect to SDG14 website.
+5. To contact me put your name, email, and your message in the box or contact directly via email and contact number
+   - **Your Name**
+   - **Email**
+   - **Yor message**
 
 ---
 
