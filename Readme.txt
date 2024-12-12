@@ -1,34 +1,67 @@
 # My SDG Portfolio
 
-## Description
-This is a personal portfolio website created to displays my skills, projects, achievements, and alignment with a chosen Sustainable Development Goal(SDG) to promote awareness and action.
+## 🌟 Description
+This is a personal portfolio website designed to showcase my **skills**, **projects**, **achievements**, and my alignment with a chosen **Sustainable Development Goal (SDG)**. The goal is to promote awareness and inspire action.
 
-## Features
-- Responsive design
-- Interactive navigation tabs
-- Smooth scroll functionality
-- Dynamic content switching using JavaScript
+---
 
-## Technologies Used
-- HTML
-- CSS
-- JavaScript
-- Font Awesome (for icons)
+## ✨ Features
+- 📱 **Responsive Design**: Optimized only for Desktop
+- 🧭 **Interactive Navigation**: Seamlessly explore different sections.
+- 🎢 **Smooth Scrolling**: Enhanced user experience with modern scroll behavior.
+- 🔄 **Dynamic Content**: JavaScript-powered interactive elements.
 
-## Installation
-1. Navigate to the project folder:
-2.Open the `index.html` file in your browser:
+---
 
+## 💻 Technologies Used
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Font Awesome** *(for icons)*
 
-## Usage
-1. Navigate through the tabs to view different sections (Skills, Projects, Contact).
-2. Explore the content and use the contact form to reach me.
+---
 
-## Credits
-- Font Awesome for icons
-- W3Schools for tutorials
-- GreatStack youtube channel for beginner website
-  https://www.youtube.com/watch?v=0YFrGy_mzjY
+## 🚀 Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Xan1950/My-SDG-Portfolio.git
+   ```
+2. Open the project folder:
+   ```bash
+   cd sdg-portfolio
+   ```
+3. Open the `index.html` file in your browser:
+   ```bash
+   start index.html
+   ```
+
+---
+
+## 📖 Usage
+
+1. Navigate through the interactive tabs to explore:
+   - **Home**
+   - **SDG**
+   - **Skills**
+   - **Projects**
+   - **Contact**
+2. Use the **contact form** to reach out.
+
+---
+
+## 🙏 Credits
+- 🎨 **Icons**: [Font Awesome](https://fontawesome.com/)
+- 📘 **Tutorials**: [W3Schools](https://www.w3schools.com/)
+- 📹 **YouTube Guide**: [GreatStack](https://www.youtube.com/watch?v=0YFrGy_mzjY)
+
+---
+
+### 🔗 Contacts
+- 🐙 [GitHub](https://github.com/Xan1950)
+- 📧 **Email**: 24-03563@g.batstate-u.edu.ph
+- 📱 **Phone**: 09926910560
+
 
 
 
