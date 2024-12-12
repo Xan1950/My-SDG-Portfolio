@@ -14,6 +14,7 @@ This is a personal portfolio website designed to showcase my **skills**, **proje
 ---
 
 ## 💻 Technologies Used
+- *Visual Studio Code**
 - **HTML**
 - **CSS**
 - **JavaScript**
@@ -23,7 +24,7 @@ This is a personal portfolio website designed to showcase my **skills**, **proje
 
 ## 🚀 Installation
 
-1. Clone this repository(optional):
+1. Clone this repository:
    ```bash
    git clone https://github.com/Xan1950/My-SDG-Portfolio.git
    ```
@@ -35,6 +36,10 @@ This is a personal portfolio website designed to showcase my **skills**, **proje
    ```bash
    start index.html
    ```
+4. If shared via a folder:
+   - Download the folder from the shared drive.
+   - Extract the folder (if zipped).
+   - Open the `index.html` file by double-clicking it or dragging it into your browser.
 
 ---
 
