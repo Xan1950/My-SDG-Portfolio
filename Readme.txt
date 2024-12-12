@@ -41,6 +41,8 @@ This is a personal portfolio website designed to showcase my **skills**, **proje
    - Extract the folder (if zipped).
    - Open the `index.html` file by double-clicking it or dragging it into your browser.
 
+Here's an fast access to website: https://xan1950.github.io/My-SDG-Portfolio/
+
 ---
 
 ## 📖 Usage
