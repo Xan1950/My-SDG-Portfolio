@@ -166,22 +166,6 @@
 </div>
 
 <script>
-    const background = document.querySelector('#header');
-
-    window.addEventListener('scroll', () => {
-      const scrollPosition = window.scrollY;
-      const fadePoint = document.body.scrollHeight / 2;
-
-      const opacity = Math.min(scrollPosition / fadePoint, 1);
-
-      background.style.background = `linear-gradient(
-    to bottom,
-    rgba(255, 255, 255, ${1 - opacity}),
-    rgba(0, 0, 255, ${opacity})
-  ), 
-  url('Images/underwater.gif') no-repeat center center/contain`;
-});
-
     var tablinks = document.getElementsByClassName("tab-links");
     var tabcontents = document.getElementsByClassName("tab-contents");
 
